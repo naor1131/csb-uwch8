@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naor1131.github.io/csb-uwch8/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://naor1131.github.io/csb-uwch8/static/js/main.5d98697d.chunk.js",
+    "main.js.map": "https://naor1131.github.io/csb-uwch8/static/js/main.5d98697d.chunk.js.map",
+    "runtime-main.js": "https://naor1131.github.io/csb-uwch8/static/js/runtime-main.4c66bd8f.js",
+    "runtime-main.js.map": "https://naor1131.github.io/csb-uwch8/static/js/runtime-main.4c66bd8f.js.map",
+    "static/js/2.832d3d9f.chunk.js": "https://naor1131.github.io/csb-uwch8/static/js/2.832d3d9f.chunk.js",
+    "static/js/2.832d3d9f.chunk.js.map": "https://naor1131.github.io/csb-uwch8/static/js/2.832d3d9f.chunk.js.map",
+    "index.html": "https://naor1131.github.io/csb-uwch8/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://naor1131.github.io/csb-uwch8/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.832d3d9f.chunk.js.LICENSE.txt": "https://naor1131.github.io/csb-uwch8/static/js/2.832d3d9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c66bd8f.js",
+    "static/js/2.832d3d9f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5d98697d.chunk.js"
+  ]
+}
